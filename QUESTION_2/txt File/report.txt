@@ -1,0 +1,36 @@
+MOVIE TICKET REPORT:
+MOVIE NAME: Napoleon
+MOVIE TICKET PRICE: R100
+NUMBER OF TICKETS3
+TOTAL TICKET PRICE341.99999999999994
+MOVIE NAME: Oppenheimer
+MOVIE TICKET PRICE: R100
+NUMBER OF TICKETS: 3
+TOTAL TICKET PRICE: 342.0
+MOVIE TICKET REPORT + 
+ + **********************************************************MOVIE NAME: Napoleon
+MOVIE TICKET PRICE: R100
+NUMBER OF TICKETS: 3
+TOTAL TICKET PRICE: 342.0
+ + **********************************************************
+MOVIE TICKET REPORT
+ + **********************************************************MOVIE NAME: Oppenheimer
+MOVIE TICKET PRICE: R100
+NUMBER OF TICKETS: 3
+TOTAL TICKET PRICE: 342.0
+ + **********************************************************
+MOVIE TICKET REPORT
+**********************************************************MOVIE NAME: Napoleon
+MOVIE TICKET PRICE: R100
+NUMBER OF TICKETS: 3
+TOTAL TICKET PRICE: 342.0
+**********************************************************
+MOVIE TICKET REPORT
+
+**********************************************************
+MOVIE NAME: Oppenheimer
+MOVIE TICKET PRICE: R100
+NUMBER OF TICKETS: 3
+TOTAL TICKET PRICE: 342.0
+
+**********************************************************
